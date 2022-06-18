@@ -1,3 +1,7 @@
+Position:
+
+I have achieved 3rd position in Hackathon with this approach
+
 Problem Statement:
 
 We are provided with the customer leads data of last year containing both direct and indirect leads. Each customer lead provides information about their activity on the platform, signup information and campaign information. Based on his/her past activity on the platform, we need to build the predictive model to classify if the user would buy the product in the next 3 months or not. 
