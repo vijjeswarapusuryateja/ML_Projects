@@ -9,3 +9,7 @@ The rules of the hackathon prohibit from creating new features with combination 
 Tip:
 
 Better model is based on dimensionality reduction
+
+Dataset:
+
+If amyone need dataset you can send me a mail: surya.vijjeswarapu@iiml.org
