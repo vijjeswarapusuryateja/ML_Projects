@@ -9,3 +9,7 @@ train.csv - For training the models, we provide a labelled dataset of 7920 tweet
 test.csv - The test data file contains only tweet ids and the tweet text with each tweet in a new line.
 
 Most profane and vulgar terms in the tweets have been replaced with “$&@*#”. However, please note that the dataset still might contain text that may be considered profane, vulgar, or offensive.
+
+Dataset:
+
+If amyone need dataset you can send me a mail: surya.vijjeswarapu@iiml.org
