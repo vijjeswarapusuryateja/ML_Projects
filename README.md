@@ -2,7 +2,7 @@
 
 Here are the different files of my ML Projects
 
-Hackathon: Achieved 3rd Position
+Hackathon: Buy prediction of a customer based on campaigns and activity
 
 Football Hackathon: Player rating prediction
 
