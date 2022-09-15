@@ -1,6 +1,6 @@
 # Problem Statement:
 
-In this FinHack, developed a model for interesting business challenge ‘Upsell Prediction'
+Developed a model for interesting business challenge ‘Upsell Prediction'
 
 # Dataset:
 
